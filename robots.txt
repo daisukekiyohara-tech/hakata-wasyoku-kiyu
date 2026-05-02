@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daisukekiyohara-tech.github.io/hakata-wasyoku-kiyu/sitemap.xml
